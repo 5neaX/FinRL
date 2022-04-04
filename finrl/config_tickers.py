@@ -1437,7 +1437,7 @@ ASX_10_TICKER = [
     "CSL.AX",
     "WBC.AX",
     "NAB.AX",
-    "ANZ.AX"
+    "ANZ.AX",
     "WES.AX",
     "MQG.AX",
     "WOW.AX",
