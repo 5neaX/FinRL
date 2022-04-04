@@ -1,7 +1,7 @@
 import os
 from argparse import ArgumentParser
 
-from finrl.config_tickers import DOW_30_TICKER
+from finrl.config_tickers import ASX_10_TICKER
 from finrl.config import (
     DATA_SAVE_DIR,
     TRAINED_MODEL_DIR,
