@@ -1430,3 +1430,17 @@ FX_TICKER = [
     "EURDKK=X",
 ]
 
+# FX Ticker
+ASX_10_TICKER = [
+    "CBA.AX",
+    "BHP.AX",
+    "CSL.AX",
+    "WBC.AX",
+    "NAB.AX",
+    "ANZ.AX"
+    "WES.AX",
+    "MQG.AX",
+    "WOW.AX",
+    "RIO.AX",
+
+]
