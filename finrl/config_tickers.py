@@ -3,7 +3,20 @@ SINGLE_TICKER = ["AAPL"]
 
 # Dow 30 constituents in 2021/10
 # check https://wrds-www.wharton.upenn.edu/ for U.S. index constituents
-
+HOTCOPPER_TICKER = [
+    'SYA.AX',
+    'LKE.AX',
+    'ICG.AX',
+    'LRS.AX',
+    'LIN.AX',
+    'AVZ.AX',
+    'MSB.AX',
+    'POS.AX',
+    'XTC.AX',
+    'AKE.AX',
+    'LTR.AX',
+    'CXO.AX',
+                  ]
 
 # FX Ticker
 ASX_AXEC_TICKER = [
