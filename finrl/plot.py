@@ -45,7 +45,7 @@ def backtest_plot(
         account_value,
         baseline_start=config.TRADE_START_DATE,
         baseline_end=config.TRADE_END_DATE,
-        baseline_ticker="^AXEC",
+        baseline_ticker="^AXJO",
         value_col_name="account_value",
 ):
     df = deepcopy(account_value)
