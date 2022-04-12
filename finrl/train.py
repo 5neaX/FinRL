@@ -7,7 +7,7 @@ from finrl.config import (
     SAC_PARAMS,
 )
 
-from finrl.config_tickers import ASX_10_TICKER
+from finrl.config_tickers import HOTCOPPER_TICKER
 
 from finrl.finrl_meta.data_processor import DataProcessor
 
@@ -108,7 +108,7 @@ if __name__ == "__main__":
     train(
         start_date=TRAIN_START_DATE,
         end_date=TRAIN_END_DATE,
-        ticker_list=ASX_10_TICKER,
+        ticker_list=HOTCOPPER_TICKER,
         data_source="yahoofinance",
         time_interval="1D",
         technical_indicator_list=INDICATORS,
