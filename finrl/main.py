@@ -60,7 +60,7 @@ def main():
         train(
             start_date=TRAIN_START_DATE,
             end_date=TRAIN_END_DATE,
-            ticker_list=DOW_30_TICKER,
+            ticker_list=HOTCOPPER_TICKER,
             data_source="yahoofinance",
             time_interval="1D",
             technical_indicator_list=INDICATORS,
@@ -82,7 +82,7 @@ def main():
         account_value_erl = test(
             start_date=TEST_START_DATE,
             end_date=TEST_END_DATE,
-            ticker_list=DOW_30_TICKER,
+            ticker_list=HOTCOPPER_TICKER,
             data_source="yahoofinance",
             time_interval="1D",
             technical_indicator_list=INDICATORS,
@@ -100,7 +100,7 @@ def main():
         trade(
             start_date=TRADE_START_DATE,
             end_date=TRADE_END_DATE,
-            ticker_list=DOW_30_TICKER,
+            ticker_list=HOTCOPPER_TICKER,
             data_source="yahoofinance",
             time_interval="1D",
             technical_indicator_list=INDICATORS,
