@@ -73,7 +73,7 @@ HOTCOPPER_TICKER = [
 'IMC.AX',
 'BUB.AX',
 'EXR.AX',
-'SLX .AX',
+'SLX.AX',
 'TON.AX',
 'QBL.AX',
 'ASN.AX',
