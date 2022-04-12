@@ -5,7 +5,7 @@ from finrl.config import (
     RLlib_PARAMS,
 )
 
-from finrl.config_tickers import ASX_10_TICKER
+from finrl.config_tickers import HOTCOPPER_TICKER
 
 from finrl.finrl_meta.env_stock_trading.env_stocktrading import StockTradingEnv
 
@@ -89,7 +89,7 @@ if __name__ == "__main__":
     account_value_erl = test(
         start_date=TEST_START_DATE,
         end_date=TEST_END_DATE,
-        ticker_list=ASX_10_TICKER,
+        ticker_list=HOTCOPPER_TICKER,
         data_source="yahoofinance",
         time_interval="1D",
         technical_indicator_list=INDICATORS,
