@@ -1,0 +1,12 @@
+Stock,TotalMentions,TotalUpVotes,HoldCount,BuyCount,SellCount,NoneCount,SocialCount,GovernanceCount,EnvironmentalCount,PositiveSentiment,NegativeSentiment,NeutralSentiment
+Utilities,51,53,14,12,0,25,19,4,6,10,4,36
+Energy,388,1779,80,219,14,75,105,1,62,62,28,291
+Industrials,89,375,36,20,3,30,28,0,10,7,6,75
+Consumer Staples,166,598,37,85,6,38,56,3,13,42,13,111
+nan,1496,9344,289,887,70,250,401,8,205,240,106,1116
+Materials,364,2418,60,225,11,68,137,2,24,55,25,278
+Healthcare,12,67,0,11,1,0,2,0,2,3,1,8
+Real Estate,163,568,38,75,11,39,60,0,11,25,10,125
+Information Technology,110,269,13,34,16,47,46,2,2,12,22,75
+Consumer Discretionary,39,33,10,10,6,13,9,0,7,6,6,27
+Communications,45,62,15,22,0,8,7,1,0,13,2,27
