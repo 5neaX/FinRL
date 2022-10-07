@@ -1,6 +1,16 @@
 
 SINGLE_TICKER = ["AAPL"]
 
+SECTOR_TICKER = ["ATEC.AX",    #IT/COMS
+                "CSL.AX",      #Healthcare
+                "QFN.AX",      #Financials
+                "VAP.AX",      #Realestate
+                "XMJ.AX",      #Materials
+                "WOW.AX",      #Consumer discres
+                "WHC.AX",      #Energy
+                "WES.AX",]      #Consumer staples
+
+
 # Dow 30 constituents in 2021/10
 # check https://wrds-www.wharton.upenn.edu/ for U.S. index constituents
 HOTCOPPER_TICKER = [
